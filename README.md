@@ -1,4 +1,4 @@
-#Convert Win
+Convert Win
 
 Convert Win là công cụ được phát triển giúp chuyển đổi nhanh các phiên bản Windows (Edition) mà không cần cài đặt lại hệ điều hành. Phần mềm tự động hóa toàn bộ quy trình chuyển đổi, cài đặt Product Key phù hợp và kích hoạt lại Windows bằng OEM Key (nếu có), giúp người dùng thao tác chỉ với vài cú nhấp chuột.
 
