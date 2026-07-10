@@ -9,7 +9,7 @@
 - [Tính năng chính](#-tính-năng-chính)
 - [Yêu cầu hệ thống](#-yêu-cầu-hệ-thống)
 - [Cài đặt](#-cài-đặt)
-- [Lưu ý](#-lưu-ý).
+- [Lưu ý](#-lưu-ý)
 - [Cảnh báo an toàn](#-cảnh-báo-an-toàn)
 - [Tác giả](#-tác-giả)
 
