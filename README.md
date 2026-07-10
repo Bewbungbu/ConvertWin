@@ -48,8 +48,7 @@ Công cụ tự động tính toán lộ trình chuyển đổi, đồng thời 
 
 ## 📦 Tải & Cài đặt
 
-Tải và chạy Convert Win (.exe) - Không cần cài đặt
-(Thêm link tải file .exe trong phần Release của GitHub nếu bạn có biên dịch sẵn file).
+Tải và chạy Convert Win.exe mới nhất  - Không cần cài đặt - Tại mục **[Releases](https://github.com/Bewbungbu/Convert-Win/releases)**
 
 ## ⚠️ Cảnh báo an toàn
 Tuyệt đối không chạy Hạ cấp (ISO) khi đang bật BitLocker.
