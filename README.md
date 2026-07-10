@@ -29,7 +29,7 @@ Công cụ tự động tính toán lộ trình chuyển đổi, đồng thời 
 *   **Hiển thị thông tin và trạng thái:** Quét chi tiết cấu hình phần cứng (CPU, RAM, Disk, BIOS) và trạng thái bản quyền của thiết bị.
 *   **Nhận diện khóa OEM (BIOS):** Tự động phát hiện, hiển thị và hỗ trợ kích hoạt khóa bản quyền OEM (Nếu máy có sẵn).
 *   **Chuyển đổi SKU chuẩn Microsoft:** 
-    *   **Nâng cấp (Upgrade):** Chuyển đổi siêu tốc thông qua công cụ có sẵn của hệ thống.
+    *   **Nâng cấp (Upgrade):** Chuyển đổi nhanh thông qua công cụ có sẵn của hệ thống.
     *   **Hạ cấp (Downgrade):** Hỗ trợ hạ cấp, cho phép giữ lại tệp tin và ứng dụng khi chạy bộ cài ISO.
 *   **Tích hợp công cụ tải ISO:** Hỗ trợ Win 10 và 11.
 *   **Tiện ích bảo vệ & Tối ưu:**
