@@ -17,7 +17,7 @@
 
 ## 🌟 Giới thiệu
 
-**ConvertWin** là công cụ giúp người dùng thay đổi linh hoạt giữa các phiên bản Win. 
+**ConvertWin** là công cụ giúp người dùng chuyển đổi giữa các phiên bản Win. 
 
 Công cụ tự động tính toán lộ trình chuyển đổi, đồng thời cung cấp hàng loạt tính năng phụ trợ để an toàn cho dữ liệu cá nhân của bạn trong suốt quá trình chuyển đổi.
 
