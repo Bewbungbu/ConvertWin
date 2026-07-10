@@ -1,59 +1,58 @@
-Convert Win
+# 🚀 Convert Win
 
-Convert Win là công cụ được phát triển giúp chuyển đổi nhanh các phiên bản Windows (Edition) mà không cần cài đặt lại hệ điều hành. Phần mềm tự động hóa toàn bộ quy trình chuyển đổi, cài đặt Product Key phù hợp và kích hoạt lại Windows bằng OEM Key (nếu có), giúp người dùng thao tác chỉ với vài cú nhấp chuột.
+**Công cụ chuyển đổi phiên bản (Editions) cho Win 10 và Win 11**
 
-✨ Tính năng
-🔄 Chuyển đổi giữa nhiều phiên bản Windows:
-Home
-Home Single Language
-Pro
-Pro Education
-Pro for Workstations
-Education
-Enterprise
-Enterprise LTSC
-IoT Enterprise
-IoT Enterprise LTSC
+---
 
-🔑 Tự động:
-Phát hiện Windows Edition hiện tại.
-Đọc OEM Key từ BIOS/UEFI.
-Kiểm tra Product Key đang sử dụng.
-Cài đặt Generic Product Key tương ứng.
-Khôi phục OEM Key sau khi chuyển đổi (nếu khả dụng).
-🖥 Giao diện trực quan, dễ sử dụng.
+## 📖 Mục lục
+- [Giới thiệu](#-giới-thiệu)
+- [Tính năng chính](#-tính-năng-chính)
+- [Yêu cầu hệ thống](#-yêu-cầu-hệ-thống)
+- [Cài đặt](#-cài-đặt)
+- [Cảnh báo an toàn](#-cảnh-báo-an-toàn)
+- [Tác giả](#-tác-giả)
 
-🔍 Hiển thị đầy đủ:
-Phiên bản Windows hiện tại.
-OEM Edition.
-OEM Product Key.
-Product Key đang hoạt động.
-Trạng thái bản quyền.
+---
 
-📝 Ghi nhật ký (Log) toàn bộ quá trình để dễ dàng theo dõi và xử lý lỗi.
+## 🌟 Giới thiệu
 
-🚀 Ưu điểm
-Không cần cài đặt lại Windows.
-Thao tác đơn giản.
-Hỗ trợ nhiều Edition.
-Tự động hóa gần như toàn bộ quy trình.
-Hạn chế tối đa lỗi do thao tác thủ công.
+**Convert Win** là công cụ giúp người dùng thay đổi linh hoạt giữa các phiên bản Win. 
 
-⚙️ Yêu cầu
-Windows 10 hoặc Windows 11
-Quyền Administrator
-Kết nối Internet
+Công cụ tự động tính toán lộ trình chuyển đổi, đồng thời cung cấp hàng loạt tính năng phụ trợ để đảm bảo an toàn cho dữ liệu cá nhân của bạn trong suốt quá trình chuyển đổi.
 
-🛠 Công nghệ
-Windows WMI
-Windows Licensing API
-Registry API
-Windows Activation Tools
+---
 
-⚠️ Lưu ý
-Phần mềm chỉ hỗ trợ chuyển đổi giữa các phiên bản Windows có khả năng nâng cấp/chuyển đổi bằng Product Key hợp lệ.
-Một số phiên bản yêu cầu khởi động lại để hoàn tất quá trình.
-Việc kích hoạt Windows phụ thuộc vào giấy phép (License) của từng thiết bị.
+## ✨ Tính năng chính
 
-📌 Mục tiêu dự án
-Convert Win được tạo ra nhằm đơn giản hóa quá trình chuyển đổi Windows Edition, giảm thời gian thao tác và hạn chế các lỗi thường gặp khi sử dụng các lệnh theo cách thủ công.
+*   **Hiển thị thông tin và trạng thái:** Quét chi tiết cấu hình phần cứng (CPU, RAM, Disk, BIOS) và trạng thái bản quyền của thiết bị.
+*   **Nhận diện khóa OEM (BIOS):** Tự động phát hiện, hiển thị và hỗ trợ kích hoạt khóa bản quyền OEM (Nếu máy có sẵn).
+*   **Chuyển đổi SKU chuẩn Microsoft:** 
+    *   **Nâng cấp (Upgrade):** Chuyển đổi siêu tốc thông qua công cụ có sẵn của hệ thống.
+    *   **Hạ cấp (Downgrade):** Hỗ trợ hạ cấp, cho phép giữ lại tệp tin và ứng dụng khi chạy bộ cài ISO.
+*   **Tích hợp công cụ tải ISO:** Hỗ trợ Win 10 và 11.
+*   **Tiện ích bảo vệ & Tối ưu:**
+    *   Tự động phát hiện và hỗ trợ giải mã hóa ổ đĩa **BitLocker**.
+    *   Dọn dẹp tệp tin cài đặt cũ để giải phóng không gian ổ cứng.
+
+---
+
+## ⚙️ Yêu cầu hệ thống
+
+*   **Hệ điều hành:** Win 10 hoặc Win 11 (Build >= 22000).
+
+---
+
+## 📦 Tải & Cài đặt
+
+Tải và chạy Convert Win (.exe) - Không cần cài đặt
+(Thêm link tải file .exe trong phần Release của GitHub nếu bạn có biên dịch sẵn file).
+
+## ⚠️ Cảnh báo an toàn
+Tuyệt đối không chạy Hạ cấp (ISO) khi đang bật BitLocker.
+
+Kiểm tra kĩ màn hình Setup (Nếu chạy ISO): Khi bộ cài Windows hiện lên, tại bước Ready to install, hãy đảm bảo dòng chữ Keep personal files and apps xuất hiện để không rủi ro mất dữ liệu[cite: 1].
+
+Quá trình chuyển đổi có thể làm thay đổi cấu hình mạng tạm thời. Hệ thống sẽ tự khôi phục sau khi hoàn tất[cite: 1].
+
+## 👨‍💻 Tác giả
+Bewbungbu[cite: 1]
