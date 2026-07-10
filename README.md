@@ -1,4 +1,4 @@
-# 🚀 Convert Win
+# 🚀 ConvertWin
 
 **Công cụ chuyển đổi phiên bản (Editions) cho Win 10 và Win 11**
 
@@ -16,7 +16,7 @@
 
 ## 🌟 Giới thiệu
 
-**Convert Win** là công cụ giúp người dùng thay đổi linh hoạt giữa các phiên bản Win. 
+**ConvertWin** là công cụ giúp người dùng thay đổi linh hoạt giữa các phiên bản Win. 
 
 Công cụ tự động tính toán lộ trình chuyển đổi, đồng thời cung cấp hàng loạt tính năng phụ trợ để đảm bảo an toàn cho dữ liệu cá nhân của bạn trong suốt quá trình chuyển đổi.
 
@@ -48,7 +48,7 @@ Công cụ tự động tính toán lộ trình chuyển đổi, đồng thời 
 
 ## 📦 Tải & Cài đặt
 
-Tải và chạy Convert Win.exe mới nhất  - Không cần cài đặt - Tại mục **[Releases](https://github.com/Bewbungbu/Convert-Win/releases)**
+Tải và chạy ConvertWin.exe mới nhất  - Không cần cài đặt - Tại mục **[Releases](https://github.com/Bewbungbu/Convert-Win/releases)**
 
 ## ⚠️ Cảnh báo an toàn
 Tuyệt đối không chạy Hạ cấp (ISO) khi đang bật BitLocker.
