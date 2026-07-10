@@ -20,6 +20,8 @@
 
 Công cụ tự động tính toán lộ trình chuyển đổi, đồng thời cung cấp hàng loạt tính năng phụ trợ để đảm bảo an toàn cho dữ liệu cá nhân của bạn trong suốt quá trình chuyển đổi.
 
+<img width="1197" height="912" alt="Screenshot 2026-07-09 105557" src="https://github.com/user-attachments/assets/29d3e196-14d3-448e-95cf-4f769ff90dde" />
+
 ---
 
 ## ✨ Tính năng chính
@@ -33,6 +35,8 @@ Công cụ tự động tính toán lộ trình chuyển đổi, đồng thời 
 *   **Tiện ích bảo vệ & Tối ưu:**
     *   Tự động phát hiện và hỗ trợ giải mã hóa ổ đĩa **BitLocker**.
     *   Dọn dẹp tệp tin cài đặt cũ để giải phóng không gian ổ cứng.
+ 
+<img width="1241" height="903" alt="Screenshot 2026-07-09 110053" src="https://github.com/user-attachments/assets/1e90f68e-54f7-492d-abd3-baaefc2ec06d" />
 
 ---
 
@@ -55,4 +59,4 @@ Kiểm tra kĩ màn hình Setup (Nếu chạy ISO): Khi bộ cài Windows hiện
 Quá trình chuyển đổi có thể làm thay đổi cấu hình mạng tạm thời. Hệ thống sẽ tự khôi phục sau khi hoàn tất[cite: 1].
 
 ## 👨‍💻 Tác giả
-Bewbungbu[cite: 1]
+Bewbungbu
