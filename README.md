@@ -21,7 +21,7 @@
 
 Công cụ tự động tính toán lộ trình chuyển đổi, đồng thời cung cấp hàng loạt tính năng phụ trợ để an toàn cho dữ liệu cá nhân của bạn trong suốt quá trình chuyển đổi.
 
-<img width="1197" height="912" alt="Screenshot 2026-07-09 105557" src="https://github.com/user-attachments/assets/29d3e196-14d3-448e-95cf-4f769ff90dde" />
+<img width="1136" height="869" alt="Screenshot 2026-07-11 131218" src="https://github.com/user-attachments/assets/b9a06dc0-0320-4bee-bcd2-61a2a4a66863" />
 
 ---
 
@@ -37,7 +37,7 @@ Công cụ tự động tính toán lộ trình chuyển đổi, đồng thời 
     *   Tự động phát hiện và hỗ trợ giải mã hóa ổ đĩa **BitLocker**.
     *   Dọn dẹp tệp tin cài đặt cũ để giải phóng không gian ổ cứng.
  
-<img width="1241" height="903" alt="Screenshot 2026-07-09 110053" src="https://github.com/user-attachments/assets/1e90f68e-54f7-492d-abd3-baaefc2ec06d" />
+<img width="1116" height="848" alt="Screenshot 2026-07-11 130201" src="https://github.com/user-attachments/assets/4fb729d1-5cd5-4dd3-b393-3f0ab39e6a33" />
 
 ---
 
