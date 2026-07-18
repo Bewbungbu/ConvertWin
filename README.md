@@ -61,7 +61,5 @@ Tuyệt đối không chạy Hạ cấp (ISO) khi đang bật BitLocker.
 
 Kiểm tra kĩ màn hình Setup (Nếu chạy ISO): Khi bộ cài Windows hiện lên, tại bước Ready to install, hãy đảm bảo dòng chữ Keep personal files and apps xuất hiện để không rủi ro mất dữ liệu.
 
-Quá trình chuyển đổi có thể làm thay đổi cấu hình mạng tạm thời. Hệ thống sẽ tự khôi phục sau khi hoàn tất.
-
 ## 👨‍💻 Tác giả
 Bewbungbu
